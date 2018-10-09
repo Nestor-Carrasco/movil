@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AVERIGUA TU ESTADO DE PESO</string>
+    <string name="txt_nombre">Ingresa tu nombre: </string>
+    <string name="txt_edad">Ingresa tu edad:</string>
+    <string name="hnt_edad"></string>
+    <string name="txt_peso_actual">Ingresa tu peso actual:</string>
+    <string name="hnt_peso_actual"></string>
+    <string name="btn_calcular">CALCULAR</string>
+</resources>
+
