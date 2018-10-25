@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="txt_titulo">Convierte de Dolar a Peso Chileno</string>
+    <string name="txt_btn_calcular">CONVIERTE</string>
+    <string name="txt_btn_limpiar">LIMPIA TODO</string>
+</resources>
